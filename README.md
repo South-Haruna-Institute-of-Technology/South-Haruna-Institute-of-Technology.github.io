@@ -1,0 +1,1 @@
+# south-haruna-institute-of-technology.github.io
