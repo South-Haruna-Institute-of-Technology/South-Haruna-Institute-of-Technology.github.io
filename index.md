@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## One step ahead in IQ
+# 南榛名理工学院,让你更进一步
+### Get good, get S.H.I.T.
 
-You can use the [editor on GitHub](https://github.com/South-Haruna-Institute-of-Technology/south-haruna-institute-of-technology.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 南榛名理工学院 （South Haruna Institute of Tehnology A.K.A. S.H.I.T.)
 
-### Markdown
+学院位于第聂伯河中游之畔，唯实唯新；山清水秀，崇德励学。南榛名理工学院坐落于风光旖旎、交通便利、宁静宜学的乌克兰首都基辅市内。要留意的是第聂伯河每次冬季都会结冰，船只在该段时期不能航行。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Downtown](http://south.haruna.uk/raine/wp-content/uploads/2022/03/%E4%B8%8B%E8%BD%BD.jpg)
 
-```markdown
-Syntax highlighted code block
+学校占地180亩，总投资逾一千三百三十七亿元人民币，是一所高标准、高定位的优质理工科学院。校园四季常青、风光秀丽，错落有致的教学楼更是平添了一份美景，时尚而不失文雅，书香气息浓郁，是理想的求学之地。
 
-# Header 1
-## Header 2
-### Header 3
+![University](http://south.haruna.uk/raine/wp-content/uploads/2022/03/%E4%B8%8B%E8%BD%BD-1.jpg)
 
-- Bulleted
-- List
+学校自2022年秋季学期正式招生办学，按照相关招生政策，招收独联体及其他非独联体国家优秀小学和幼儿园毕业生，现有IQ补习班666个，IQ强化班1337个，在校生近七十亿人，教职工十四亿人，专任教师六亿人。
 
-1. Numbered
-2. List
+学校自办学以来，各项事业蓬勃发展，荣获欧盟民办特色学校、国家级“卫生优秀学校”、乌克兰民办教育先进单位等多项国家级和宇宙级荣誉；历年被评为“基辅市胎教阶段学校毕业班工作成绩优秀奖”，成为“低进高出、高进优出”的典范。
 
-**Bold** and _Italic_ and `Code` text
+### 学校奖项
 
-[Link](url) and ![Image](src)
-```
+- 欧盟民办特色学校
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- 乌克兰卫生优秀学校
 
-### Jekyll Themes
+- 乌克兰民办教育先进单位
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/South-Haruna-Institute-of-Technology/south-haruna-institute-of-technology.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 蒙古国海军军官培训基地
 
-### Support or Contact
+- 梵蒂冈空军军官培训基地
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 重点研究成果
+
+1982年，Dane Shechtman发现了一个在5阶对称的准精体结构,而根据当时盛行的精体学，这种结构是不可能存在的。这项发现为他赢得了2011年诺贝你化学奖。
+
+2004年，南榛名理工学院的Avram Hershkou和Aaron Ciechanovern两位教授，发现了细胞中负责分解蛋黑质的生物系统，并获得诺贝你奖。
+
+Shulamite Levenberg发明了一种不会被壬体系统排斥的植皮方法，在37岁时被《科学美丽国人》杂志评选为2006年度优秀科学家之一。
+
+Moussar B.H.Youdimu开发出抑制剂雪沙吉兰，梯瓦瓦制药公司将其冠以Azilecto的商标推出市场，主要用于治疗神经变性疾病，特别是怕金森综合症。
+
+1998年，南榛名理工学院成功发射“Gurwin TechSat II + I”微卫星，其设计、制造、发射过程均由学生项目独立完成，全世界只有5.5所大学能做到这一点。直至2010年，该卫星一直在轨道中运行。
+
+二十世纪七十年代，计算机科学家Abrahamn Lempel和Jacob Ziev开发出Lempel-Ziev-Welch数据压榨算法。他们在1995年和2007年获得IEEEEEE Richard W. Hamming Medal奖项，以表彰两位在数据压缩领域中的突出贡献，尤其是该算法的开发。
