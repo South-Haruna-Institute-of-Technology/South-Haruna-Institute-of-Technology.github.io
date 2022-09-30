@@ -11,7 +11,7 @@
 
 学校占地180亩，总投资逾一千三百三十七亿元人民币，是一所高标准、高定位的优质理工科学院。校园四季常青、风光秀丽，错落有致的教学楼更是平添了一份美景，时尚而不失文雅，书香气息浓郁，是理想的求学之地。
 
-![University](https://raw.githubusercontent.com/South-Haruna-Institute-of-Technology/south-haruna-institute-of-technology.github.io/main/%E5%AD%A6%E6%A0%A1%E5%91%A8%E8%BE%B9%E5%9F%BA%E8%BE%85%E5%B8%82%E9%A3%8E%E5%85%89.jpg)
+![University](https://github.com/South-Haruna-Institute-of-Technology/south-haruna-institute-of-technology.github.io/raw/main/%E5%AD%A6%E6%A0%A1%E6%95%99%E5%AD%A6%E6%A5%BC.jpg)
 
 学校自2022年秋季学期正式招生办学，按照相关招生政策，招收独联体及其他非独联体国家优秀小学和幼儿园毕业生，现有IQ补习班666个，IQ强化班1337个，在校生近七十亿人，教职工十四亿人，专任教师六亿人。
 
